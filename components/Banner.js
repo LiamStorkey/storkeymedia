@@ -38,7 +38,7 @@ class Banner extends Component {
         <div style={styles.tagline}>
           <div>Yoo!🤙🏻</div>
           <div>My name is Storkey and i'm a</div>
-          <div><span style={styles.highlight}>{textThatChanges}</span> from Sydney,</div>
+          <div><span style={styles.highlight}>{textThatChanges}</span> from Sydney here,</div>
           <div>Australia</div>
         </div>
         <div style={styles.linksbot}>
